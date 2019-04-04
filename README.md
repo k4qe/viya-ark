@@ -40,7 +40,7 @@ For example, a functioning [Ansible Controller](http://docs.ansible.com/ansible/
 # Index of Tools
 
 * [Pre-installation Playbook](playbooks/pre-install-playbook)
-* [Home Directory Creator Playbook](playbooks/home-directory-createor)
+* [Home Directory Creator Playbook](playbooks/home-directory-creator)
 * [SAS Data Server Utility Script](utilities/postgres/viya)
 * [Viya Multi-Machine Services Utilities](playbooks/viya-mmsu)
 * [Deployment Report Playbook](playbooks/deployment-report)
